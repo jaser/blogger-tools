@@ -1,0 +1,6 @@
+- edit app.yaml
+- change YourProjectID by your project id
+- save
+- deploy using ApppEngine Launcher
+
+www.alblogger.com
